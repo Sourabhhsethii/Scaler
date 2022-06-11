@@ -1,4 +1,4 @@
-package com.scaler.sourabh.week1.introduction;
+package com.scaler.sourabh.week1.introduction.assignment;
 
 /**
  * You have to follow the following steps to find the sqrt of an integer N.
