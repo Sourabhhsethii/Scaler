@@ -68,6 +68,7 @@ public class SmallerAndGreater {
             inputArray.add(input.nextInt());
         }
         System.out.println(solve2(inputArray));
+        System.out.println(solve(inputArray));
     }
 
     // One For Loop => T:C-> O(N) S:C-> O(1)
@@ -83,7 +84,7 @@ public class SmallerAndGreater {
     }
 
     // Approach 2
-    public static int solve2(int[] A) {
+    public static int solve(ArrayList<Integer> A) {
         int max = 0, min = 1000001;
         for(int i : A){
             max = Math.max(max, i);
