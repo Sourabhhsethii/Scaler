@@ -1,7 +1,7 @@
 # Scaler Java
 ## Coding Repository
 
-#### System Design Notes By Sourabh Sethi
+#### Coding Notes By Sourabh Sethi
 
 ## Week 1
 #### com.scaler.sourabh.week1
